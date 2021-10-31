@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Alexandros Alexiou, I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece and i am mainly interested in Software Engineering.
+My name is Alexandros Alexiou, I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece and I am mainly interested in Software Engineering.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
