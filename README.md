@@ -14,13 +14,11 @@ My name is Alexandros Alexiou, I'm an undergraduate student at the Dept. of Comp
 [![](https://img.shields.io/badge/tools-MySQL-4479A1?logo=mysql&labelColor=grey&logoWidth=20)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)](https://www.docker.com/)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Analytics
 
-
+<p align="center">
 <a href="https://github.com/AlexandrosAlexiou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&hide=jupyter%20notebook,c,typescript,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&hide=jupyter%20notebook,c,ruby&layout=compact&theme=algolia"/>
 </a>
-
-<a href="https://github.com/AlexandrosAlexiou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AlexandrosAlexiou's GitHub Stats" />
-</a>
+</p>
