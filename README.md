@@ -10,8 +10,8 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 ## &#x1f4c8; Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&theme=algolia&hide=jupyter%20notebook,c,ruby&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&theme=react&hide=jupyter%20notebook,c,ruby&layout=compact"/>
 <a href="https://github.com/AlexandrosAlexiou">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosAlexiou&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
