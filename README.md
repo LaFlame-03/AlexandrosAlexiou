@@ -10,7 +10,7 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 🎧Listening to...🎧
 </p>
 <p align="center">
-  <img src="https://spotify-readmemd.herokuapp.com/"/>
+  <img src="https://spotify-readmemd.herokuapp.com/?background_color=0d1117"/>
 </p>
 
 ## &#x1f4c8; Stats
