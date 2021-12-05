@@ -7,6 +7,9 @@
 I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece, interested in Software Engineering and in Data Science.
 
 <p align="center">
+🎧Listening to...🎧
+</p>
+<p align="center">
   <img src="https://spotify-readmemd.herokuapp.com/"/>
 </p>
 
