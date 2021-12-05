@@ -18,6 +18,6 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&theme=react&hide=jupyter%20notebook,c,ruby&count_private=true&layout=compact&hide_border=true&bg_color=0D1117"/>
 <a href="https://github.com/AlexandrosAlexiou">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosAlexiou&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosAlexiou&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&border=white"/>
 </a>
 </p>
