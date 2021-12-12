@@ -7,7 +7,7 @@
 I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece, interested in Software Engineering and in Data Science.
 
 
-Listening to...</br></br>
+Listening to...</br>
 
 [![Spotify](https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff)](https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff)
 
@@ -17,7 +17,5 @@ Listening to...</br></br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&theme=react&hide=jupyter%20notebook,c,ruby&count_private=true&layout=compact&hide_border=true&bg_color=0D1117"/>
-<a href="https://github.com/AlexandrosAlexiou">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosAlexiou&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-</a>
+![Alexandros's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&theme=tokyonight)
 </p>
