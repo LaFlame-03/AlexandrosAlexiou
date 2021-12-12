@@ -15,7 +15,5 @@ Listening to...</br>
 
 ## &#x1f4c8; Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosAlexiou&theme=react&hide=jupyter%20notebook,c,ruby&count_private=true&layout=compact&hide_border=true&bg_color=0D1117"/>
 ![Alexandros's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&theme=tokyonight)
-</p>
+
