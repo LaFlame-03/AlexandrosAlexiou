@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@alexandrosalexiou-%23181717?style=flat-square&logo=github)](https://github.com/AlexandrosAlexiou)
 [![](https://img.shields.io/badge/-Alexandros%20Alexiou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrosalexiou/)](https://www.linkedin.com/in/alexandrosalexiou/)
 
-I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece, interested in Software Engineering and in Data Science.
+I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece, interested in Software Engineering.
 
 
 ## 🎧 Listening to...
