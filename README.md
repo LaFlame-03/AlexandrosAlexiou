@@ -16,7 +16,7 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 
 
 
-&#x1f4c8; Stats
+## &#x1f4c8; Stats
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&bg_color=0d1117&text_color=e6e6e6"> 
