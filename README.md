@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Alexandros Alexiou</div>
+## Hey 👋, I'm Alexandros Alexiou
 
 [![](https://img.shields.io/badge/-@homepage-%231DA1F2?style=flat-square&logo=about.me&logoColor=ffffff)](https://alexandrosalexiou.github.io/)
 [![](https://img.shields.io/badge/-@alexandrosalexiou-%23181717?style=flat-square&logo=github)](https://github.com/AlexandrosAlexiou)
@@ -7,7 +7,7 @@
 I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioannina, Greece, interested in Software Engineering and in Data Science.
 
 
-## <div align="center">🎧 Listening to...</div>
+## 🎧 Listening to...
 <p align="center">
   <a href="https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff"> 
     <img src="https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff" alt="Listening now...">
@@ -16,7 +16,7 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 
 
 
-## <div align="center">&#x1f4c8; Stats</div>
+&#x1f4c8; Stats
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&bg_color=0d1117&text_color=e6e6e6"> 
