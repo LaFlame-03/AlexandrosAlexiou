@@ -9,7 +9,7 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 
 ## 🎧 Listening to...
 <p align="center">
-  <a href="https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff"> 
+  <a href="https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff" target="_blank"> 
     <img width="495" src="https://spotify-readmemd.herokuapp.com/?background_color=0d1117&border_color=ffffff" alt="Listening now...">
   </a>
 </p>
@@ -19,7 +19,7 @@ I'm an undergraduate student at the Dept. of Computer Science & Engineering Ioan
 ## &#x1f4c8; Stats
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&bg_color=0d1117&text_color=e6e6e6"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&bg_color=0d1117&text_color=e6e6e6" target="_blank"> 
     <img src="https://github-readme-stats.vercel.app/api?username=AlexandrosAlexiou&show_icons=true&bg_color=0d1117&text_color=e6e6e6" alt="Stats">
   </a>
 </p>
